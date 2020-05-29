@@ -1,0 +1,9 @@
+Package: com.mauricederksen.greenbattery
+Name: GreenBattery
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Give your battery icon a green state.
+Maintainer: Maurice Derksen
+Author: Maurice Derksen
+Section: Tweaks
